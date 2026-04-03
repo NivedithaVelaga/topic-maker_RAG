@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+pydantic-settings
+pinecone
+google-generativeai
+crawl4ai
+duckduckgo-search
+requests
+googlesearch-python
+langchain
+langchain-community
+langchain-openai
+openai
